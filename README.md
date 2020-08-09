@@ -1,5 +1,5 @@
 # EnviroMe
 
-Elle Hacks 2020 - Deloitte Best Pitch Recipient.  
-EnviroMe is your sustainability tracker that enables you to monitor the environmental impact and carbon footprint of the everyday products you buy and use.
+ElleHacks Hackathon 2020 - Deloitte Best Pitch Recipient.  
+EnviroMe is an app that allows users to scan items they have purchased in order to track their carbon footprint. This sustainability tracker enables you to monitor the environmental impact of the everyday products you buy, by calculating the average pollution produced during manufacturing, shipment, and consumption of the scanned product.
 
